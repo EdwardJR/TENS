@@ -1,3 +1,6 @@
+// Author : YAŞAR
+
+
 package com.example.tens_102;
 
 import androidx.appcompat.app.AppCompatActivity;
